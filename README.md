@@ -12,7 +12,7 @@
     <h2>TITULO SECUNDARIO</h2>
     <p>Parágrafo</p>
 
-</body>
+</html>
 
 
 
